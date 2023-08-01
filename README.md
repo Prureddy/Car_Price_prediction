@@ -1,6 +1,8 @@
 # Car_Price_prediction
 
   This repository contains code for predicting car prices using Linear Regression and Lasso Regression.
+   [Data_Set_Link](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho) [Google_collab_link](https://colab.research.google.com/drive/1pm7Acs4LR1-zDRWC9EGLVAJRjur4RMRV#scrollTo=9YKIoB-i0kIi)
+
 
 ## Libraries Used
 
@@ -36,7 +38,7 @@ This project aims to predict car prices based on various features using two diff
 
 ### Dataset
 
-The dataset used for this project contains information about various cars and their prices. It has features such as Car_Name	Year	Selling_Price	Present_Price	Kms_Driven	Fuel_Type	Seller_Type	Transmission	Owner. [Data_Set_Link](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho)
+The dataset used for this project contains information about various cars and their prices. It has features such as Car_Name	Year	Selling_Price	Present_Price	Kms_Driven	Fuel_Type	Seller_Type	Transmission	Owner.
 
 ### Notebooks
 
