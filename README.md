@@ -1,6 +1,6 @@
 # Car_Price_prediction
 
-  This repository contains code for predicting car prices using Linear Regression and Lasso Regression.
+  This repository contains code for predicting car prices using two algorithms they are Linear Regression and Lasso Regression.
    [Data_Set_Link](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho) [Google_collab_link](https://colab.research.google.com/drive/1pm7Acs4LR1-zDRWC9EGLVAJRjur4RMRV#scrollTo=9YKIoB-i0kIi)
 
 
